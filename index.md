@@ -6,7 +6,7 @@ Hi!
 
 目前此計畫正在熱烈規劃中，具體想做的事情大致上有：
 
-1  加入 Creative Commons Global Network
+1. 加入 Creative Commons Global Network
 2. 提供 CC 授權 標準教材
 3. 招募一同推廣 CC 授權 的夥伴
 
