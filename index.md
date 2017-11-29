@@ -38,3 +38,8 @@ Hi!
 
 * 示範教材講授影片：
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFuYOsppHDrlGNj8Ardp1ELYlvEC5jk9o" frameborder="0" allowfullscreen></iframe>
+
+# 近期演講
+2017-11-25
+講者: 林誠夏 / Lucien C.H. Lin
+主題: [CC授權介紹與活化應用](https://www.dropbox.com/s/v4w6eg0tetj4c2n/20171125-CC%E6%8E%88%E6%AC%8A%E4%BB%8B%E7%B4%B9%E8%88%87%E6%B4%BB%E5%8C%96%E6%87%89%E7%94%A8.pdf?dl=0)
