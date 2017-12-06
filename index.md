@@ -1,6 +1,6 @@
 Hi!
 
-我們是 [CC 台灣分會籌備處](https://ocftw.github.io/tw.creativecommons.org/)與[開放文化基金會](https://ocf.tw)，將在這裡協助熱愛開放、分享的您與同好繼續深入探索各項相關議題，並且將共創共享的福音傳遞給更多人 :D
+我們是 [CC 台灣社群](https://ocftw.github.io/tw.creativecommons.org/)與[開放文化基金會](https://ocf.tw)，將在這裡協助熱愛開放、分享的您與同好繼續深入探索各項相關議題，並且將共創共享的福音傳遞給更多人 :D
 
 原 "台灣創用CC計畫" 的網站在[這裡](http://creativecommons.tw)，但內容不再更新。
 
@@ -8,7 +8,7 @@ Hi!
 
 目前此計畫正在熱烈規劃中，具體想做的事情大致上有：
 
-1. 加入 Creative Commons Global Network
+1. 加入 Creative Commons Global Network, 並尋求 CC Taiwan Chapter Members & Partners 
 2. 提供 CC 授權 標準教材
 3. 招募一同推廣 CC 授權 的夥伴
 
