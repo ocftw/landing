@@ -40,10 +40,19 @@ Hi!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFuYOsppHDrlGNj8Ardp1ELYlvEC5jk9o" frameborder="0" allowfullscreen></iframe>
 
 # 近期演講
+
+* 2018-01-19
+   * 講者: 宮薏婷
+   * 主題：[研究活動的著作權議題與創用CC之應用](https://drive.google.com/file/d/1d0QaYAwpYmYpujXZh0o5uU8_GhslUZWO/view?usp=sharing)
+
 * 2017-11-25
    * 講者: 林誠夏 / Lucien C.H. Lin
    * 主題: [CC授權介紹與活化應用](https://www.dropbox.com/s/v4w6eg0tetj4c2n/20171125-CC%E6%8E%88%E6%AC%8A%E4%BB%8B%E7%B4%B9%E8%88%87%E6%B4%BB%E5%8C%96%E6%87%89%E7%94%A8.pdf?dl=0) 
 
+* 2017-11-07
+   * 講者: 宮薏婷
+   * 主題：[創用CC與設計作品保護](https://drive.google.com/file/d/166F39GjwcRo9q80UtGWecIkDn0Okepx6/view?usp=sharing
+   
 * 2017-10-15
    * 講者: Irvin Chen
    * 主題: [創用 CC 開放授權快速上手 / CC & 3D列印](https://www.slideshare.net/irvinfly/cc-cc-3d)
