@@ -51,7 +51,7 @@ Hi!
 
 * 2017-11-07
    * 講者: 宮薏婷
-   * 主題：[創用CC與設計作品保護](https://drive.google.com/file/d/166F39GjwcRo9q80UtGWecIkDn0Okepx6/view?usp=sharing
+   * 主題：[創用CC與設計作品保護](https://drive.google.com/file/d/166F39GjwcRo9q80UtGWecIkDn0Okepx6/view?usp=sharing)
    
 * 2017-10-15
    * 講者: Irvin Chen
