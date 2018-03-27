@@ -42,23 +42,23 @@ Hi!
 # 近期演講
 
 * 2018-01-19
-   * 講者: 宮薏婷
-   * 主題：[研究活動的著作權議題與創用CC之應用](https://drive.google.com/file/d/1d0QaYAwpYmYpujXZh0o5uU8_GhslUZWO/view?usp=sharing)
+   * 講者: [宮薏婷](http://www.wiseteam.tw/234703419123159-26234274023214729702.html)
+   * 主題: [研究活動的著作權議題與創用CC之應用](https://drive.google.com/file/d/1d0QaYAwpYmYpujXZh0o5uU8_GhslUZWO/view?usp=sharing)
 
 * 2017-11-25
-   * 講者: 林誠夏 / Lucien C.H. Lin
+   * 講者: [林誠夏 / Lucien C.H. Lin]（http://lucien.cc/about-2/）
    * 主題: [CC授權介紹與活化應用](https://www.dropbox.com/s/v4w6eg0tetj4c2n/20171125-CC%E6%8E%88%E6%AC%8A%E4%BB%8B%E7%B4%B9%E8%88%87%E6%B4%BB%E5%8C%96%E6%87%89%E7%94%A8.pdf?dl=0) 
 
 * 2017-11-07
-   * 講者: 宮薏婷
-   * 主題：[創用CC與設計作品保護](https://drive.google.com/file/d/166F39GjwcRo9q80UtGWecIkDn0Okepx6/view?usp=sharing)
+   * 講者: [宮薏婷](http://www.wiseteam.tw/234703419123159-26234274023214729702.html)
+   * 主題: [創用CC與設計作品保護](https://drive.google.com/file/d/166F39GjwcRo9q80UtGWecIkDn0Okepx6/view?usp=sharing)
    
 * 2017-10-15
-   * 講者: Irvin Chen
+   * 講者: [Irvin Chen](https://tw.linkedin.com/in/irvinchen)
    * 主題: [創用 CC 開放授權快速上手 / CC & 3D列印](https://www.slideshare.net/irvinfly/cc-cc-3d)
 
 * 2017-09-03
-   * 講者: Irvin Chen
+   * 講者: [Irvin Chen](https://tw.linkedin.com/in/irvinchen)
    * 主題: [館聯 (GLAM) 機構開源與開放](https://medium.com/@irvinfly/glam-機構開源與開放-講座內容-56208c19b6a4)
 
 * 2017-07-08
@@ -70,6 +70,6 @@ Hi!
    * 主題: [數位教材著作權基本介紹與創用CC授權應用](https://www.slideshare.net/CCTaiwanCommunity/20161126ccpptx) 
    
 * 2015-07
-   * 講者: 莊庭瑞 Tyng-Ruey Chuang 
+   * 講者: [莊庭瑞 Tyng-Ruey Chuang](http://www.iis.sinica.edu.tw/~trc/public/) 
    * 主題: [內容、資料、工具：為何開放很重要 Contents, Data, Tools: Why Openness Matters](http://media.academia.tw/u/trc/m/openness-talk-in-taitung/)
  
