@@ -41,6 +41,10 @@ Hi!
 
 # 近期演講
 
+* 2018-04-26
+   * 講者：林懿萱 (Yi-hsuan Lin)
+   * 主題：[認識CC授權—CC授權條款簡介及CC素材的搜尋和其應用](https://www.slideshare.net/YihsuanLin28/20180426-95168267)
+
 * 2018-01-19
    * 講者：[宮薏婷](http://www.wiseteam.tw/234703419123159-26234274023214729702.html)
    * 主題：[研究活動的著作權議題與創用CC之應用](https://drive.google.com/file/d/1d0QaYAwpYmYpujXZh0o5uU8_GhslUZWO/view?usp=sharing)
@@ -66,7 +70,7 @@ Hi!
    * 主題：[如何尋找與使用免費的公眾素材](https://docs.google.com/presentation/d/1_os4VDcoBbGBylwiWySuqLNSCqzLAbO07Y0lZq2uIjw/edit?usp=sharing)
    
 * 2016-11-26
-   * 講者：林懿萱 
+   * 講者：林懿萱 (Yi-hsuan Lin)
    * 主題：[數位教材著作權基本介紹與創用CC授權應用](https://www.slideshare.net/CCTaiwanCommunity/20161126ccpptx) 
    
 * 2015-07
